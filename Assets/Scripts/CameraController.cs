@@ -121,7 +121,7 @@ public class CameraController : MonoBehaviour
             resetted = true;
             return;
         }
-        float step = 2f * Time.deltaTime;
+        float step = 3f * Time.deltaTime;
         transform.position = Vector3.MoveTowards(transform.position, target.position - transform.forward * resetDistance, step);
     }
 }

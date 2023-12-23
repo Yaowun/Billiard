@@ -35,7 +35,7 @@ public class NumberBall : MonoBehaviour
         if (offsetCounts.ContainsKey(ballNumber))
         {
             Vector3 currentOffsetCount = offsetCounts[ballNumber];
-            transform.position = new Vector3(0.6f + currentOffsetCount.x * diameter * Mathf.Sqrt(3f), 0.7915657f, currentOffsetCount.z * diameter);
+            transform.position = new Vector3(0.6f + currentOffsetCount.x * diameter * Mathf.Sqrt(3f), 0.8915657f, currentOffsetCount.z * diameter);
         }
         else
         {
