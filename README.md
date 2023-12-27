@@ -12,3 +12,7 @@ Unity 2022.3.0、C# 9.0、Blender 4.0
 
 ## 成果
 ![billard](./fig/screenshot.png)
+
+https://github.com/Yaowun/Billiard/assets/90306375/da7fd5c8-b8b9-4805-9079-a603b1940b12
+
+https://github.com/Yaowun/Billiard/assets/90306375/a084e30d-e06a-4ea0-87c8-1d1a7c1a6f47
